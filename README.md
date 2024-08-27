@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto se trata de una aplicación para controlar los gastos telefónicos de una empresa. Permite gestionar llamadas realizadas a través de varias cabinas telefónicas, incluyendo llamadas locales, de larga distancia y a celulares. La aplicación registra llamadas, muestra información detallada y proporciona un resumen consolidado de los costos.
+Este proyecto se trata de una aplicación para controlar los gastos telefónicos de una empresa. Permite gestionar llamadas realizadas a través de varias cabinas telefónicas, incluyendo llamadas locales, de larga distancia y a celulares. La aplicación registra llamadas, muestra información detallada y proporciona un resumen con el total de los costos.
 
 ## Funcionalidades
 
