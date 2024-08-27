@@ -35,8 +35,11 @@ Este proyecto se trata de una aplicación para controlar los gastos telefónicos
 Entradas del Usuario: El usuario debe ingresar valores válidos para el tipo de llamada y la duración. El código maneja entradas no válidas de forma básica.
 Manejo de Errores: Se realiza una validación simple de entradas para evitar errores en el tipo de llamada. 
 
-# Posibles Mejoras
+## Posibles Mejoras
 Validación de Entradas: Implementar una validación más robusta para las entradas del usuario para evitar errores o valores inesperados.
 
+## IA: Porcentaje de uso de inteligencia artificial
+
+La IA me ayudó con correcciones en el código ya que no entendía algunos o si los entenía no sabía como solucionarlos, me ayudó con la optimización , además cuando tenía alguna duda sobre funcionamiento, podría estimar que hice uso de la IA entre un 50% y 60%.
 
 
